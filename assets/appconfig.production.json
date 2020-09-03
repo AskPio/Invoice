@@ -1,5 +1,5 @@
 {
-  "remoteServiceBaseUrl": "https://ap-i-api.azurewebsites.net",
+  "remoteServiceBaseUrl": "https://whysharepoint.co/",
   "appBaseUrl": "https://invoice.askpio.com", 
   "localeMappings": {
     "angular": [
