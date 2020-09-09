@@ -1,6 +1,6 @@
 {
   "remoteServiceBaseUrl": "https://ap-i-api.azurewebsites.net",
-  "appBaseUrl": "https://invoice.askpio.com", 
+  "appBaseUrl": "https://invoice.askpio.com",
   "localeMappings": {
     "angular": [
       {
